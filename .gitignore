@@ -23,6 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
+public/colorRampImg/*
+public/lineType/*
 public/*.png
 public/*.jpg
 public/*.geojson
