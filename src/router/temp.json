@@ -1,0 +1,42 @@
+[
+  {
+    "column_name": "gid",
+    "data_type": "integer"
+  },
+  {
+    "column_name": "id",
+    "data_type": "integer"
+  },
+  {
+    "column_name": "name",
+    "data_type": "character varying"
+  },
+  {
+    "column_name": "é¢ç§¯",
+    "data_type": "double precision"
+  },
+  {
+    "column_name": "äººå£",
+    "data_type": "double precision"
+  },
+  {
+    "column_name": "gdp2005",
+    "data_type": "integer"
+  },
+  {
+    "column_name": "gdp2006",
+    "data_type": "integer"
+  },
+  {
+    "column_name": "gdp2007",
+    "data_type": "integer"
+  },
+  {
+    "column_name": "07äººågd",
+    "data_type": "double precision"
+  },
+  {
+    "column_name": "geom",
+    "data_type": "USER-DEFINED"
+  }
+]
